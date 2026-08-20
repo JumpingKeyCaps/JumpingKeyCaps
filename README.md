@@ -7,8 +7,10 @@
  █░░░░░░░░ ╔════════════════════════════════════════════════════════════════════════════════╗ ░░░░░░░░█
  █░░░░░░░░ ║ ↓ ABOUT ME ↓  ║                  ◉ ANDROID  ◉ KOTLIN  ◉ GRAPHICS  ◉ SYSTEMS  ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
- █░░░░░░░░ ║  ROLE   ◢◤  Android Software Engineer                                         ║ ░░░░░░░░█
- █░░░░░░░░ ║  STATUS ◢◤ 12 years of code, custom pipelines & native rendering              ║ ░░░░░░░░█
+ █░░░░░░░░ ║  ROLE   ◢◤   [Android Software Engineer]                                      ║ ░░░░░░░░█
+ █░░░░░░░░ ║  XP     ◢◤   +10 years of code                                                ║ ░░░░░░░░█
+ █░░░░░░░░ ║  LEGACY ◢◤   Too many Android versions, 4 UI paradigms eras                   ║ ░░░░░░░░█
+ █░░░░░░░░ ║               2 languages, and 4 core architectures.                           ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ▼ ENGINEERING PROFILE                                                         ║ ░░░░░░░░█
  █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
@@ -30,16 +32,16 @@
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ▼ ENGINEERING SKILLS                                                          ║ ░░░░░░░░█
  █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
- █░░░░░░░░ ║    ARCHITECTURE ▸ MVVM // Clean Architecture // Modularization // DI           ║ ░░░░░░░░█
- █░░░░░░░░ ║    CONCURRENCY  ▸ Coroutines // Flow // Structured Concurrency // Dispatchers  ║ ░░░░░░░░█
- █░░░░░░░░ ║    DATA         ▸ CRUD // Room // SQLite // DataStore // Serialization         ║ ░░░░░░░░█
- █░░░░░░░░ ║    NETWORK      ▸ REST // Retrofit // Firebase // WebSockets                   ║ ░░░░░░░░█
- █░░░░░░░░ ║    MEDIA        ▸ Camera // Audio // DSP // Media3 // Image Processing         ║ ░░░░░░░░█
- █░░░░░░░░ ║    CONNECTIVITY ▸ Bluetooth // BLE // RFCOMM // USB                            ║ ░░░░░░░░█
- █░░░░░░░░ ║    PLATFORM     ▸ Sensors //  Android Services // Google APIs                  ║ ░░░░░░░░█
- █░░░░░░░░ ║    DEVOPS       ▸ CI/CD // Gradle // Automated Builds // Deployment            ║ ░░░░░░░░█
- █░░░░░░░░ ║    TOOLING      ▸ Git // Bash // Python // ADB                                 ║ ░░░░░░░░█
- █░░░░░░░░ ║    TESTING      ▸ Unit // Instrumented // UI // Integration Tests              ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [ARCHITECTURE]   ▸  MVVM // Clean Architecture // Modularization // DI        ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [CONCURRENCY]    ▸  Coroutines // Flow // Concurrency // Dispatchers          ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [DATA]           ▸  CRUD // Room // SQLite // DataStore // Serialization      ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [NETWORK]        ▸  REST // Retrofit // Firebase // WebSockets                ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [MEDIA]          ▸  Camera // Audio // DSP // Media3 // Image Processing      ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [CONNECTIVITY]   ▸  Bluetooth // BLE // RFCOMM // USB                         ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [PLATFORM]       ▸  Sensors //  Android Services // Google APIs               ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [DEVOPS]         ▸  CI/CD // Gradle // Automated Builds // Deployment         ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [TOOLING]        ▸  Git // Bash // Python // ADB                              ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [TESTING]        ▸  Unit // Instrumented // UI // Integration Tests           ║ ░░░░░░░░█
  █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ▼ CURRENTLY BUILDING                                                          ║ ░░░░░░░░█
