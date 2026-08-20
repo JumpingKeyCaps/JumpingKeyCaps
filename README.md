@@ -5,29 +5,50 @@
  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
  █░░░░░░░░ ╔════════════════════════════════════════════════════════════════════════════════╗ ░░░░░░░░█
- █░░░░░░░░ ║  ABOUT ME!                                                                     ║ ░░░░░░░░█
+ █░░░░░░░░ ║ ↓ ABOUT ME ↓  ║                  ◉ ANDROID  ◉ KOTLIN  ◉ GRAPHICS  ◉ SYSTEMS  ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ROLE   ◢◤  Android Software Engineer                                         ║ ░░░░░░░░█
  █░░░░░░░░ ║  STATUS ◢◤ 12 years of code, custom pipelines & native rendering              ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
- █░░░░░░░░ ║  FOCUS  : Android // Core Systems // Graphics & Shaders // Architecture        ║ ░░░░░░░░█
+ █░░░░░░░░ ║  ▼ ENGINEERING PROFILE                                                         ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
+ █░░░░░░░░ ║  SPECIALIZATION   ➜ Native Android / Custom Rendering / Core Systems          ║ ░░░░░░░░█
+ █░░░░░░░░ ║  APPROACH         ➜ Clean/MVVM Architecture / Async Pipelines / Performance   ║ ░░░░░░░░█
+ █░░░░░░░░ ║  INTERESTS        ➜ Graphics / Shaders / 3D / DSP / Systems Programming       ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ▼ CORE STACK & TECHNOLOGIES                                                   ║ ░░░░░░░░█
  █░░░░░░░░ ║  ┌──────────────────────────────────────────────────────────────────────────┐  ║ ░░░░░░░░█
- █░░░░░░░░ ║  │ ANDROID     ██████████   [99%] Framework, Internals & Deep Mastery       │  ║ ░░░░░░░░█
- █░░░░░░░░ ║  │ KOTLIN/JAVA ██████████   [95%] Native Core Architecture                  │  ║ ░░░░░░░░█
- █░░░░░░░░ ║  │ COMPOSE UI  █████████░   [90%] Custom Rendering & UI Pipelines           │  ║ ░░░░░░░░█
- █░░░░░░░░ ║  │ AGSL & 3D   ████████░░   [80%] Shaders, Projections & Volumetric 3d      │  ║ ░░░░░░░░█
- █░░░░░░░░ ║  │ DSP         ███████░░░   [65%] Audio Buffers & Signal Processing         │  ║ ░░░░░░░░█
+ █░░░░░░░░ ║  │ ANDROID     ██████████   [95%] Framework, Internals & Deep Mastery       │  ║ ░░░░░░░░█
+ █░░░░░░░░ ║  │ KOTLIN/JAVA ██████████   [90%] Native Core Architecture                  │  ║ ░░░░░░░░█
+ █░░░░░░░░ ║  │ COMPOSE UI  █████████░   [85%] Custom Rendering & UI Pipelines           │  ║ ░░░░░░░░█
+ █░░░░░░░░ ║  │ AGSL & 3D   ████████░░   [70%] Shaders, Projections & Volumetric 3D      │  ║ ░░░░░░░░█
+ █░░░░░░░░ ║  │ Audio DSP   ███████░░░   [60%] Audio Buffers & Signal Processing         │  ║ ░░░░░░░░█
  █░░░░░░░░ ║  │ PYTHON      ██████░░░░   [50%] Scripting & OpenCV Vision                 │  ║ ░░░░░░░░█
  █░░░░░░░░ ║  │ OTHERS      █████░░░░░   [45%] C, Bash, Low-Level Tooling & Hacks        │  ║ ░░░░░░░░█
  █░░░░░░░░ ║  └──────────────────────────────────────────────────────────────────────────┘  ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
- █░░░░░░░░ ║  ▼ ACTIVE ENGINEERING FOCUS                                                    ║ ░░░░░░░░█
- █░░░░░░░░ ║  -> 3D Volumetric Engine (Kotlin Native, Compose-to-Texture Pipeline,          ║ ░░░░░░░░█
- █░░░░░░░░ ║    Asynchronous Multi-Worker Scheduler)                                        ║ ░░░░░░░░█
+ █░░░░░░░░ ║  ▼ ENGINEERING SKILLS                                                          ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
+ █░░░░░░░░ ║    ARCHITECTURE ▸ MVVM // Clean Architecture // Modularization // DI           ║ ░░░░░░░░█
+ █░░░░░░░░ ║    CONCURRENCY  ▸ Coroutines // Flow // Structured Concurrency // Dispatchers  ║ ░░░░░░░░█
+ █░░░░░░░░ ║    DATA         ▸ CRUD // Room // SQLite // DataStore // Serialization         ║ ░░░░░░░░█
+ █░░░░░░░░ ║    NETWORK      ▸ REST // Retrofit // Firebase // WebSockets                   ║ ░░░░░░░░█
+ █░░░░░░░░ ║    MEDIA        ▸ Camera // Audio // DSP // Media3 // Image Processing         ║ ░░░░░░░░█
+ █░░░░░░░░ ║    CONNECTIVITY ▸ Bluetooth // BLE // RFCOMM // USB                            ║ ░░░░░░░░█
+ █░░░░░░░░ ║    PLATFORM     ▸ Sensors //  Android Services // Google APIs                  ║ ░░░░░░░░█
+ █░░░░░░░░ ║    DEVOPS       ▸ CI/CD // Gradle // Automated Builds // Deployment            ║ ░░░░░░░░█
+ █░░░░░░░░ ║    TOOLING      ▸ Git // Bash // Python // ADB                                 ║ ░░░░░░░░█
+ █░░░░░░░░ ║    TESTING      ▸ Unit // Instrumented // UI // Integration Tests              ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
- █░░░░░░░░ ║  CONTACTS:                                                                     ║ ░░░░░░░░█
+ █░░░░░░░░ ║  ▼ CURRENTLY BUILDING                                                          ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
+ █░░░░░░░░ ║  -> 3D Volumetric Engine (Native Kotlin, Compose-to-Texture Pipeline,          ║ ░░░░░░░░█
+ █░░░░░░░░ ║    Asynchronous Multi-Worker Scheduler, Custom Renderer)                       ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
+ █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
+ █░░░░░░░░ ║  ■ CONTACT:                                                                    ║ ░░░░░░░░█
  █░░░░░░░░ ║  └── Sam.meusa@gmail.com                                                       ║ ░░░░░░░░█
  █░░░░░░░░ ╚════════════════════════════════════════════════════════════════════════════════╝ ░░░░░░░░█
  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
