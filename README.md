@@ -7,10 +7,12 @@
  █░░░░░░░░ ╔════════════════════════════════════════════════════════════════════════════════╗ ░░░░░░░░█
  █░░░░░░░░ ║ ↓ ABOUT ME ↓  ║                  ◉ ANDROID  ◉ KOTLIN  ◉ GRAPHICS  ◉ SYSTEMS  ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
  █░░░░░░░░ ║  ROLE   ◢◤   [Android Software Engineer]                                      ║ ░░░░░░░░█
  █░░░░░░░░ ║  XP     ◢◤   +10 years of code                                                ║ ░░░░░░░░█
  █░░░░░░░░ ║  LEGACY ◢◤   Too many Android versions, 4 UI paradigms eras                   ║ ░░░░░░░░█
  █░░░░░░░░ ║               2 languages, and 4 core architectures.                           ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ▼ ENGINEERING PROFILE                                                         ║ ░░░░░░░░█
  █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
@@ -46,8 +48,15 @@
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ▼ CURRENTLY BUILDING                                                          ║ ░░░░░░░░█
  █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
- █░░░░░░░░ ║  -> 3D Volumetric Engine (Native Kotlin, Compose-to-Texture Pipeline,          ║ ░░░░░░░░█
- █░░░░░░░░ ║    Asynchronous Multi-Worker Scheduler, Custom Renderer)                       ║ ░░░░░░░░█
+ █░░░░░░░░ ║  [VK3] ➜ Volumetric UI system for Compose                                     ║ ░░░░░░░░█
+ █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
+ █░░░░░░░░ ║         - Full Native Kotlin                                                   ║ ░░░░░░░░█
+ █░░░░░░░░ ║         - Custom Volumetric Rendering Engine                                   ║ ░░░░░░░░█
+ █░░░░░░░░ ║         - Realtime Compose-to-Texture Pipeline                                 ║ ░░░░░░░░█
+ █░░░░░░░░ ║         - Classic & Compose Texturing per Surface                              ║ ░░░░░░░░█
+ █░░░░░░░░ ║         - OutScreen Compose Snapshot Pipeline                                  ║ ░░░░░░░░█
+ █░░░░░░░░ ║         - Asynchronous Multi-Worker Scheduler                                  ║ ░░░░░░░░█
+ █░░░░░░░░ ║         - Intelligent Texture Cache & Refresh Management                       ║ ░░░░░░░░█
  █░░░░░░░░ ║                                                                                ║ ░░░░░░░░█
  █░░░░░░░░ ╠════════════════════════════════════════════════════════════════════════════════╣ ░░░░░░░░█
  █░░░░░░░░ ║  ■ CONTACT:                                                                    ║ ░░░░░░░░█
